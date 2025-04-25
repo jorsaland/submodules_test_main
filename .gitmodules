@@ -1,0 +1,3 @@
+[submodule "submodules_test_internal_1"]
+	path = submodules_test_internal_1
+	url = https://github.com/jorsaland/submodules_test_internal_1.git
